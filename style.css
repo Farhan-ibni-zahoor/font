@@ -1,0 +1,41 @@
+body{
+    background-color: bisque;
+}
+.heading{
+    margin: 0px;
+    box-shadow: 3px 3px 3px grey;
+    font-weight: bold;
+    font-size: 15px;
+    width: 100%;
+}
+
+.note {
+    font-size: 15px;
+    color: black;
+}
+canvas{
+    box-shadow: 5px 5px 5px grey;
+    background-color: white;
+    border: 5px solid white;
+    border-radius: 20px;
+}
+
+.copy-right-footer{
+    position: fixed;
+    color: red;
+    margin: 0px;
+    bottom: 0px;
+    width: 100%;
+    background-color: gold;
+    line-height: 3;
+    text-align: center;
+}
+.name {
+    font-size: 25px;
+    color: black;
+    background-color:aquamarine ;
+    width: 30%;
+
+}
+
+
